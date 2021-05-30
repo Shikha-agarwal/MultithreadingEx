@@ -52,7 +52,7 @@ public class Main {
                 }finally {
                     lock.unlock();
                 }
-
+                System.out.println("Shikha");
             }
         }
     }
